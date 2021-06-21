@@ -12,6 +12,7 @@
 - CSS
 #### Backend:
 - Core Java
+- JDBC
 - Maven
 - Jersey
 - Jackson
